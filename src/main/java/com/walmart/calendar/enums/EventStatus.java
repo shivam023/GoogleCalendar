@@ -1,5 +1,5 @@
 package com.walmart.calendar.enums;
 
-public enum EvensStatus {
+public enum EventStatus {
     ACCEPTED, DECLINED, MAYBE, NORESPONSE, CANCELED
 }
